@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Havoc 4.0 framework now includes a comprehensive offense logging system that tracks all security violations and unauthorized access attempts. This system logs offenses to `/data/log/user_management_offenses.log` as requested.
+The Havoc 4.0 framework now includes a comprehensive offense logging system that tracks all security violations and unauthorized access attempts. This system logs offenses to `/data/log/user_management_offenses.log`.
 
 ![Shakazulu1](https://github.com/user-attachments/assets/88ce2ad1-e0c6-4365-baff-75b414c0cd52)
 
