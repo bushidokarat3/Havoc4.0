@@ -1,4 +1,6 @@
 # Havoc4.0
+![Shakazulu1](https://github.com/user-attachments/assets/07c40ee3-0e0d-4628-8c08-c6f78f9359fc)
+
 "I am not afraid of an army of lions led by a sheep; I am afraid of an army of sheep led by a lion." - Shaka Zulu
 # Havoc Framework Performance Optimization Guide
 
