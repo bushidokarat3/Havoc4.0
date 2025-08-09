@@ -2,7 +2,7 @@
 
 ## Overview
 
-Havoc now includes advanced listener failover and rotation strategies inspired by Cobalt Strike's capabilities. These features enhance beacon reliability by providing intelligent host rotation and retry mechanisms when connections fail.
+Havoc4 is undergoing advanced listener failover and rotation strategies inspired by other C2 capabilities. These features enhance beacon reliability by providing intelligent host rotation and retry mechanisms when connections fail.
 
 ## Host Rotation Strategies
 
