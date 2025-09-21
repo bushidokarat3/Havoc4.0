@@ -1,4 +1,4 @@
-# MITRE ATT&CK Reporting Framework for Havoc C2
+# MITRE ATT&CK Reporting Framework for Havoc4 C2
 
 ## Overview
 
