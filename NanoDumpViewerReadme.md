@@ -120,6 +120,7 @@ The NanoDump Viewer is a comprehensive widget for processing Windows memory dump
 - **pypykatz**: Python tool for extracting credentials from memory dumps
 - **Python Runtime**: System python installation required
 - **Qt5 Framework**: UI components and file handling
+- **NanoDump Bof**: The py script is used to convert the invalid format back to normal
 
 ### Processing Pipeline
 1. **File Validation**: Verify file exists and is readable
