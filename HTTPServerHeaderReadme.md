@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Havoc4 HTTP Server Header Spoofing feature allows you to customize the `Server` HTTP response header that your Havoc listener advertises. This is a critical OPSEC feature that helps your C2 infrastructure blend in with legitimate web servers and avoid detection by security tools that fingerprint based on server signatures.
+The Havoc4 HTTP Server Header Spoofing feature allows you to customize the `Server` HTTP response header that your Havoc4 listener advertises. This is a critical OPSEC feature that helps your C2 infrastructure blend in with legitimate web servers and avoid detection by security tools that fingerprint based on server signatures.
 
 ## Why This Matters for OPSEC
 
