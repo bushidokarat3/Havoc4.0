@@ -1,8 +1,8 @@
-# Havoc2.0 C2 Web Request Log
+# Havoc4.0 C2 Web Request Log
 
 ## Overview
 
-The Web Request Log is a critical monitoring and analysis feature in the Havoc2.0 C2 framework that provides real-time visibility into all HTTP/HTTPS traffic hitting your C2 infrastructure. This component helps operators track callback communications, monitor for suspicious activity, analyze traffic patterns, and maintain operational security by identifying potential detection attempts or unauthorized access.
+The Web Request Log is a critical monitoring and analysis feature in the Havoc4.0 C2 framework that provides real-time visibility into all HTTP/HTTPS traffic hitting your C2 infrastructure. This component helps operators track callback communications, monitor for suspicious activity, analyze traffic patterns, and maintain operational security by identifying potential detection attempts or unauthorized access.
 
 ## Purpose and Benefits
 
