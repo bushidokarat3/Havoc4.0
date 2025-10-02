@@ -2,7 +2,7 @@
 
 ## Overview
 
-Havoc now supports Apache-style `.htaccess` files for HTTP/HTTPS listeners, providing powerful URL rewriting, access control, and request filtering capabilities. This feature allows you to make your C2 infrastructure behave like a legitimate web server with fine-grained control over incoming requests.
+Havoc4 now supports Apache-style `.htaccess` files for HTTP/HTTPS listeners, providing powerful URL rewriting, access control, and request filtering capabilities. This feature allows you to make your C2 infrastructure behave like a legitimate web server with fine-grained control over incoming requests.
 
 ## Capability Gains
 
