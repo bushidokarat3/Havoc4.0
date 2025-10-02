@@ -1,4 +1,4 @@
-# Havoc .htaccess Support
+# Havoc4 .htaccess Support
 
 ## Overview
 
