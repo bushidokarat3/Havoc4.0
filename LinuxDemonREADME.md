@@ -1,6 +1,6 @@
-# Havoc Linux Demon
+# Havoc4 Linux Demon
 
-Cross-platform C2 agent for Linux systems, providing full bidirectional communication with the Havoc Framework.
+Cross-platform C2 agent for Linux systems, providing full bidirectional communication with the Havoc4 Framework.
 
 ## Table of Contents
 - [Overview](#overview)
