@@ -1,4 +1,4 @@
-# Havoc LLVM Obfuscator (Mutant Build System)
+# Havoc4 LLVM Obfuscator (Mutant Build System)
 
 ## Overview
 
@@ -145,3 +145,4 @@ docker save havoc4-obfuscator:latest -o havoc4-obfuscator.tar
 - [eshard/obfuscator-llvm](https://github.com/eshard/obfuscator-llvm) - LLVM obfuscator plugin
 - [LLVM Pass Infrastructure](https://llvm.org/docs/WritingAnLLVMPass.html)
 - [MinGW-w64](https://www.mingw-w64.org/) - Windows cross-compilation toolchain
+
