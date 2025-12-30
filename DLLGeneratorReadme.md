@@ -84,12 +84,6 @@ Use **Select All** / **Deselect All** to quickly manage selections.
    - DllMain: Executes immediately when DLL loads
    - Specific function: Executes only when that function is called
 
-#### Encryption Options
-- **XOR brute-force encryption**: Encrypts shellcode with random 2-byte XOR key
-  - At runtime, tries all 65,536 key combinations
-  - Validates decrypted shellcode using mathematical scoring
-  - Only executes if validation score ≥50 points
-
 - **Generate benign stubs**: Makes non-target functions return NULL/0 instead of being empty
 
 - **Hide console window**: Automatically hides console windows for stealth
@@ -119,7 +113,6 @@ Use **Select All** / **Deselect All** to quickly manage selections.
 4. When executed, the DLL will:
    - Check all guardrails (if enabled)
    - Run entropy reduction operations
-   - Decrypt and validate shellcode (if XOR enabled)
    - Execute payload in the configured function
    - Forward all other function calls to legitimate exports
 
@@ -160,7 +153,6 @@ x86_64-w64-mingw32-g++ -shared -o output.dll source.cpp def_file.def \
 - **Use guardrails** to prevent accidental execution on unintended targets
 - **Test in isolated environment** before deployment
 - **Monitor execution** to ensure guardrails are working correctly
-- **Rotate XOR keys** by regenerating for each operation
 
 ### Detection Vectors
 - **Static Analysis**: Entropy reduction helps evade signature-based detection
